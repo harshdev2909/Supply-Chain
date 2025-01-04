@@ -1,6 +1,10 @@
+import Hero from "./Hero"
+
 const BuyerDashboard = () => {
   return (
-    <div>BuyerDashboard</div>
+    <>
+    <Hero/>
+    </>
   )
 }
 
